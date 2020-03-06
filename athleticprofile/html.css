@@ -1,0 +1,28 @@
+h1{
+    color: white;background-color: darkblue;
+    font-size: 35px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+h3{
+    color: white; background-color: royalblue;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    column-count: 2;
+    column-gap: 22.5px;
+    border-style: solid;
+
+}
+span{
+    text-shadow:1px 1px lightgray;
+}
+.red-text{
+    color: crimson;
+}
+p{
+    font-size: 23.5px;
+    font-family: monospace;
+    text-align: center;
+}
